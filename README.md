@@ -1,6 +1,6 @@
 # FLY AI with Tello drone
 
-Read more on: [https://qooba.net](https://qooba.net)
+Read more on: [https://qooba.net/2021/01/19/fly-ai-with-tello-drone/](https://qooba.net/2021/01/19/fly-ai-with-tello-drone/)
 
 
 ## THANKS
