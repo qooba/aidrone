@@ -108,7 +108,7 @@ class TFModel(ITFModel):
           keypoint_scores = result['detection_keypoint_scores'][0]
 
 
-        min_score_thresh=.50
+        min_score_thresh=.30
         if self.draw_detections:
             viz_utils.visualize_boxes_and_labels_on_image_array(
                   image_np_with_detections[0],
